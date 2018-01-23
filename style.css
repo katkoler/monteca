@@ -1,5 +1,14 @@
 
 h1 {
-   color: blue;
-    
+    color: rgba(20, 133, 179, 1);
+    background-color: rgba(156, 15, 23, 1);
+    background: rgba(28, 25, 26, 1);
+/*    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+	color: rgba(28, 25, 26, 1);
+	font-size: 15px;
 }
